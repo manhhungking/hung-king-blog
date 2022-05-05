@@ -1,6 +1,7 @@
+Click==7.0
 Flask==2.1.1
 Flask_Login==0.6.0
 Flask_SQLAlchemy==2.5.1
 SQLAlchemy==1.4.36
 Werkzeug==2.0.2
-unicorn
+gunicorn==19.9.0
